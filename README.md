@@ -67,7 +67,7 @@ AI modeling 1명 (100%), 총 1명
 
 ![한국인터넷정보학회 2020 춘계](Anomaly%20De%207ab1a/Untitled%201.png)
 
-한국인터넷정보학회 2020 춘계
+한국인터넷정보학회 2022 춘계
 
 [내용을 Develop하여 해외 저널 도전 중.](https://www.notion.so/Anomaly-Detection-PatchCore-Develop-40b18238bce24810b56676ca50cda762)
 
